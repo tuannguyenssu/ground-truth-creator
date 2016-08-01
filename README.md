@@ -1,2 +1,2 @@
-# GroundTruthCreator
-Ground Truth Creator
+# Ground Truth Creator
+ERC Laboratory, Soongsil University.
